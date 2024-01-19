@@ -2,7 +2,7 @@
 - 👀 I’m interested in data, modeling, coding, math, earth, environment, arts
 - 🌱 I’m currently learning yoga, lacrosse, skiing
 - 💞️ I’m looking to collaborate on fun data analysis projects
-- 📫 How to reach me: seunga0417@gmail.com
+- 📫 How to reach me: sr4316@nyu.edu
 
 <!---
 sr4316/sr4316 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
